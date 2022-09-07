@@ -1,1 +1,8 @@
+while farm == false do
+  wait(3)
+  print("ITS NOT REAL")
+end
+while farm == true do
+  wait(3)
   print(farm, ..., raid, ..., distance)
+end
